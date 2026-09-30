@@ -1,0 +1,16 @@
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small $if(paper-reference)$$paper-reference$$else$Paper reference$endif$}
+\fancyfoot[L]{\scriptsize Copyright \copyright\ Loughborough University. All rights reserved.}
+\fancyfoot[R]{\scriptsize \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{16pt}
+\titleformat{\section}{\bfseries\normalsize}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.1em}{0.25em}

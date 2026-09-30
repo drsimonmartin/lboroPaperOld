@@ -1,0 +1,13 @@
+\begin{center}
+{\Large\bfseries $if(committee)$$committee$$else$COMMITTEE NAME$endif$}
+\end{center}
+\vspace{0.5em}
+{\large\bfseries $if(title)$$title$$endif$}\par
+\vspace{0.6em}
+$if(origin)$Origin: $origin$\par$endif$
+\vspace{0.6em}
+\noindent\fbox{\begin{minipage}{0.96\linewidth}
+\textbf{Action Required:} $if(action)$$action$$else$To NOTE$endif$\\[0.35em]
+$if(action-detail)$$action-detail$$endif$
+\end{minipage}}
+\vspace{0.8em}
