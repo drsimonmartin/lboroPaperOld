@@ -1,0 +1,31 @@
+---
+title: "Name of Paper"
+committee: "COMMITTEE NAME"
+paper-reference: "COUNxx-Px"
+origin: "Author(s) of the paper"
+action: "To CONSIDER"
+action-detail: "Clearly indicate what the committee is being asked to do, including any specific questions for members."
+format:
+  committee-paper-docx: default
+  committee-paper-pdf: default
+---
+
+## Executive Summary
+
+Provide enough detail for the executive summary to stand alone. Write for lay members, spell out acronyms, explain higher education jargon, and provide enough context for any questions being asked.
+
+## Other Committees Consulted
+
+List any committees that inputted into or considered the paper before the current committee.
+
+## Equity, Diversity and Inclusion Considerations
+
+State the relevant EDI considerations, including whether an Equality Impact Assessment has been undertaken. If EDI considerations are genuinely not applicable, write N/A.
+
+## Paper Details
+
+Write the main paper here. Keep it concise and use data meaningfully and sparingly.
+
+## Supplementary Reading
+
+Add links to appendices, supporting documents, or other committee resources here.
